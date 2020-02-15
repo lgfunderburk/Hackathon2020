@@ -1,6 +1,6 @@
 ![alt-text](images/norwester_blue.png)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lgfunderburk/Hackathon2020/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lgfunderburk/Hackathon2020/jupyter_python)
 
 # EpiCoronaHack 2020
 
